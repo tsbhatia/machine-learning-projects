@@ -1,0 +1,12 @@
+Werkzeug
+Flask
+numpy
+pandas
+pandas-datareader
+Keras
+gevent
+pillow
+h5py
+tensorflow
+matplotlib
+scikit-learn
