@@ -9,3 +9,8 @@ pip install jupyter
 jupyter notebook
 ```
 Select file in the browser: fault_detection.ipynb 
+
+
+link to [creditcard.csv](https://www.kaggle.com/mlg-ulb/creditcardfraud/download)
+
+[Machine Learning Fraud Detection: A Simple Machine Learning Approach](https://www.data-blogger.com/2017/06/15/fraud-detection-a-simple-machine-learning-approach/)
